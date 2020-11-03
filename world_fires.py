@@ -19,7 +19,7 @@ with open(filename) as f:
 	for row in reader:
 		lons.append(row[1])
 		lats.append(row[0])
-		brightness.append(float(row[2])/300)
+		brightness.append(float(row[2])/200)
 		hover_texts.append(f'Date - {row[5]}')
 
 
