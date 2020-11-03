@@ -5,6 +5,7 @@ Data Analysis using Python3 packages
 3. NumPy- to work with complex data retrieved from API.
 4. Pandas- to work with raw data.
 
+## Scenarios
 Made visualizations of real-time JSON and CSV data retrieved using the help of APIs. Some of the scenarios are listed below-
 
 **1. Random walk of a drunk person taking n steps, which helps in data analyisis and predicting weather and earthquakes.
@@ -35,6 +36,16 @@ Made visualizations of real-time JSON and CSV data retrieved using the help of A
 <kbd>
 <img width="959" alt="globalfires" src="https://user-images.githubusercontent.com/42320689/97968752-11bb1680-1d8d-11eb-854c-5fe043a3a4b5.PNG" style="border:1px solid black;">
 </kbd>
+
+## Resources
+1. Github API
+```https://api.github.com/search/repositories?q=language:python&sort=stars```
+
+2. Climate Data
+```https://www.ncdc.noaa.gov/cdo-web/```
+
+3. Earthquake Data
+```https://earthquake.usgs.gov/earthquakes/feed/```
 
 ## License
 
