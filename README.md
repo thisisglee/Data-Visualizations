@@ -15,9 +15,8 @@ Made visualizations of real-time JSON and CSV data retrieved using the help of A
 
 **2. Realtime earthquakes occured in past month on Richter magnitude scale plotted on world map.**
 
-<kbd>
 ![](earthquakes.gif)
-</kbd>
+
 
 **3. Probability of throwing dices in various situations n times and plotting them on the graph.**
 
@@ -27,9 +26,9 @@ Made visualizations of real-time JSON and CSV data retrieved using the help of A
 
 **4. Realtime weather difference between two or more different cities or regions and plotting them on the graph. Data retrieved from Weather API's.**
 
-<kbd>
+
 ![](weathervisuals.gif)
-</kbd>
+
 
 **5. The scale of Global fires around the world in a given period of time. Data retrieved from NASA Global fires API.**
 
