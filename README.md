@@ -1,9 +1,9 @@
 # Data-Visualizations
 Data Analysis using Python3 packages
-1. Matplotlib- to create static, animated, and interactive visualizations in Python.
-2. Plotly- to create interactive visualizations.
-3. NumPy- to work with complex data retrieved from API.
-4. Pandas- to work with raw data.
+1. **Matplotlib**- to create static, animated, and interactive visualizations in Python.
+2. **Plotly**- to create interactive visualizations.
+3. **NumPy**- to work with complex data retrieved from API.
+4. **Pandas**- to work with raw data.
 
 ## Scenarios
 Made visualizations of real-time JSON and CSV data retrieved using the help of APIs. Some of the scenarios are listed below-
