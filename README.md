@@ -8,7 +8,7 @@ Data Analysis using Python3 packages
 Made visualizations of real-time JSON and CSV data retrieved using the help of APIs. Some of the scenarios are listed below-
 
 **1. Random walk of a drunk person taking n steps, which helps in data analyisis and predicting weather and earthquakes.
-![](randomwalks.png)
+<img src=“randomwalks.png” raw=true alt=“Subject Pronouns” style=“margin-right: 10px;”/>
 **2. Realtime earthquakes occured in past month on Richter magnitude scale plotted on world map.**
 ![](earthquakes.gif)
 **3. Probability of throwing dices in various situations n times and plotting them on the graph.**
